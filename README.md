@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="" target="_blank">
-      <img src="public/readme/readme-hero.webp" alt="Project Banner">
+    <a href="https://youtu.be/GXbZc1sHEJY" target="_blank">
+      <img src="assets/readme/readme-hero.webp" alt="Project Banner">
     </a>
   <br />
 
@@ -38,7 +38,7 @@ This repository contains the code corresponding to an in-depth tutorial availabl
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://youtu.be/GXbZc1sHEJY" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">✨ Introduction</a>
 
@@ -99,7 +99,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone [git remote URL]
+git clone https://github.com/jsmastery-pro/airbnb-clone.git
+cd airbnb-clone
 ```
 
 **Installation**
@@ -148,7 +149,7 @@ Scan the QR code with the Expo Go app on your phone, or press `i` for the iOS Si
 Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/roam-kit)**.
 
 <a href="https://jsm.dev/roam-kit" target="_blank">
-  <img src="public/readme/readme-videokit.webp" alt="Video Kit Banner">
+  <img src="assets/readme/readme-videokit.webp" alt="Video Kit Banner">
 </a>
 
 ## <a name="more">🚀 More</a>
@@ -159,5 +160,5 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
 <a href="https://jsm.dev/roam-engineer" target="_blank">
-  <img src="public/readme/readme-jsmpro.webp" alt="Project Banner">
+  <img src="assets/readme/readme-jsmpro.webp" alt="Project Banner">
 </a>
